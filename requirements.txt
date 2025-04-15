@@ -1,4 +1,4 @@
-absl-py==2.2.2
+sabsl-py==2.2.2
 astunparse==1.6.3
 cachetools==5.5.2
 certifi==2025.1.31
@@ -53,3 +53,5 @@ urllib3==2.4.0
 waitress==3.0.2
 Werkzeug==2.2.3
 wrapt==1.14.1
+tensorflow-intel==2.12.0
+python_version >= "3.8" and python_version < "3.11"
